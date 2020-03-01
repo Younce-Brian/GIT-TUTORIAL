@@ -1,0 +1,19 @@
+{
+  "name": "git-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Younce-Brian/GIT-TUTORIAL.git"
+  },
+  "author": "Younce-Brian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Younce-Brian/GIT-TUTORIAL/issues"
+  },
+  "homepage": "https://github.com/Younce-Brian/GIT-TUTORIAL#readme"
+}
